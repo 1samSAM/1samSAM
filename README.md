@@ -1,6 +1,5 @@
 # 💫 About Me:
 I’m a Computer Science and Engineering student passionate about robotics, IoT, and AI-driven solutions. My work spans smart waste management systems, real-time AI applications, and RAG-based AI tools for enhancing sales intelligence. Currently, I'm exploring advanced NLP techniques using frameworks like LangChain and HuggingFace.
-
 Feel free to explore my repositories showcasing innovative projects, from IoT-enabled systems to AI-powered recommendation engines. Let’s connect and build something impactful together!
 
 
